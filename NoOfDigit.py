@@ -14,4 +14,4 @@
 
 # Alternative method using Built in Function
 n = int(input("Enter the number: "))
-print("The number of digits is:", len(n))
+print("The number of digits is:", len(str(n)))
